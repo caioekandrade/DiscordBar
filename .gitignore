@@ -1,0 +1,14 @@
+.DS_Store
+/build/
+/dist/
+*.app/
+*.dmg
+*.zip
+.env
+.env.*
+*.p12
+*.p8
+*.key
+*.mobileprovision
+*.provisionprofile
+
